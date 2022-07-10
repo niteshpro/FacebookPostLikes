@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\bin\Debug\net6.0\Facebook.exe
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\bin\Debug\net6.0\Facebook.deps.json
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\bin\Debug\net6.0\Facebook.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\bin\Debug\net6.0\Facebook.dll
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\bin\Debug\net6.0\Facebook.pdb
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.dll
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\refint\Facebook.dll
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.pdb
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\Facebook.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\Facebook\Facebook\obj\Debug\net6.0\ref\Facebook.dll
